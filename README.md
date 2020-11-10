@@ -1,1 +1,1 @@
-# mapereducer
+# hadoop-examples-mapreduce
